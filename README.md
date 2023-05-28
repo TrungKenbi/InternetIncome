@@ -9,19 +9,19 @@ Your income depends on the number of proxies used and the location of proxy. If 
 
 ## :moneybag:	Register with the following links:
 
-1. [EarnApp](https://t.co/k0w7jqLfxq)  
-2. [PacketStream](https://packetstream.io/?psr=4tHH)  
-3. [Honeygain](https://honeygain.com/)  
-4. [IPRoyal](https://iproyal.com/pawns?r=170182)  
-5. [Peer2Profit](https://peer2profit.com/r/163956712261b9cf129932a)  
-6. [ProxyRack](https://peer.proxyrack.com/ref/tqkgvytmszxtxafo30miq2dbeeauuopmmup0eklx)  
-7. [Repocket](https://link.repocket.co/pV1G)  
-8. [Traffmonetizer](https://traffmonetizer.com/?aff=4211)  
-9. [ProxyLite](https://proxylite.ru/?r=AXLDPNX5)  
-10. [BitPing](https://app.bitping.com/?r=drPpp600)
-11. [Ebesucher](https://www.ebesucher.com/?ref=engageub) (Private autosurf with cookies accepted. Good earnings but consumes more CPU and memory)
+1. [EarnApp](https://earnapp.com/i/gxY4HHrT)  
+2. [PacketStream](https://packetstream.io/?psr=5I88)  
+3. [Honeygain](https://r.honeygain.me/TRUNG15ED0)  
+4. [IPRoyal](https://pawns.app/?r=1549205)  
+5. [Peer2Profit](https://t.me/peer2profit_app_bot?start=168305422864515e941d0d2)  
+6. [ProxyRack](https://peer.proxyrack.com/ref/ayuib5ktboudo64mnukoz7bhferwrzzkkiehnuto)  
+7. [Repocket](https://link.repocket.co/DwH7)  
+8. [Traffmonetizer](https://traffmonetizer.com/?aff=1291298)  
+9. [ProxyLite](https://proxylite.ru/?r=90CKTGWV)  
+10. [BitPing](https://app.bitping.com?r=TQfdKpcs)
+11. [Ebesucher](https://www.ebesucher.com/?ref=trungdlpmmo) (Private autosurf with cookies accepted. Good earnings but consumes more CPU and memory)
 12. [Mysterium](https://mystnodes.com/) (Payment of $1 or ~0.22 MYST is required during setup for every node)
-13. [GagaNode](https://dashboard.gaganode.com/register?referral_code=kpcnjdxaizdmifk) (Updated soon)
+13. [GagaNode](https://dashboard.gaganode.com/register?referral_code=ziegpvmmbudtuty) (Updated soon)
 14. [Spider Income](https://income.spider.dev/r/engagf7jws) (Not Supported)
 15. [Traffic Earn](https://trafficearn.com/r?r=Mzgy) (Not Supported)
 16. [Salad](https://salad.com/) (Use code WM5ZHG for a 2x earning rate bonus!) (Not Supported)
@@ -36,19 +36,19 @@ Your income depends on the number of proxies used and the location of proxy. If 
 
 | App Name | Residential/Home ISP | Datacenter/Hosting/VPS |Limit per Account|Devices per IP|
 |  :--- |  :---: |  :---: | :---: | :---: |
-| [EarnApp](https://t.co/k0w7jqLfxq)  | :heavy_check_mark:	  | :x: | 15|1|
-| [PacketStream](https://packetstream.io/?psr=4tHH)  | :heavy_check_mark:	  | :x: |No limit|1|
-| [Honeygain](https://honeygain.com/) | :heavy_check_mark:	  | :x: |10|1|
-| [IPRoyal](https://iproyal.com/pawns?r=170182)  | :heavy_check_mark:	  | :x: |No limit|1|
-| [Ebesucher](https://www.ebesucher.com/?ref=engageub)  | :heavy_check_mark:	  | :x: |No limit|1|
-| [Peer2Profit](https://peer2profit.com/r/163956712261b9cf129932a)  | :heavy_check_mark:	  | :heavy_check_mark:	 | No limit|No limit|
-| [ProxyRack](https://peer.proxyrack.com/ref/tqkgvytmszxtxafo30miq2dbeeauuopmmup0eklx)  | :heavy_check_mark:	  | :heavy_check_mark: |500|1|
-| [Repocket](https://link.repocket.co/pV1G)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|2|
-| [Traffmonetizer](https://traffmonetizer.com/?aff=4211) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|No limit|
-| [ProxyLite](https://proxylite.ru/?r=AXLDPNX5) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
-| [BitPing](https://app.bitping.com/?r=drPpp600) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
+| [EarnApp](https://earnapp.com/i/gxY4HHrT)  | :heavy_check_mark:	  | :x: | 15|1|
+| [PacketStream](https://packetstream.io/?psr=5I88)  | :heavy_check_mark:	  | :x: |No limit|1|
+| [Honeygain](https://r.honeygain.me/TRUNG15ED0) | :heavy_check_mark:	  | :x: |10|1|
+| [IPRoyal](https://pawns.app/?r=1549205)  | :heavy_check_mark:	  | :x: |No limit|1|
+| [Ebesucher](https://www.ebesucher.com/?ref=trungdlpmmo)  | :heavy_check_mark:	  | :x: |No limit|1|
+| [Peer2Profit](https://t.me/peer2profit_app_bot?start=168305422864515e941d0d2)  | :heavy_check_mark:	  | :heavy_check_mark:	 | No limit|No limit|
+| [ProxyRack](https://peer.proxyrack.com/ref/ayuib5ktboudo64mnukoz7bhferwrzzkkiehnuto)  | :heavy_check_mark:	  | :heavy_check_mark: |500|1|
+| [Repocket](https://link.repocket.co/DwH7)  | :heavy_check_mark:	  | :heavy_check_mark: |No limit|2|
+| [Traffmonetizer](https://traffmonetizer.com/?aff=1291298) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|No limit|
+| [ProxyLite](https://proxylite.ru/?r=90CKTGWV) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
+| [BitPing](https://app.bitping.com?r=TQfdKpcs) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
 | [Mysterium](https://mystnodes.com/) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
-| [GagaNode](https://dashboard.gaganode.com/register?referral_code=kpcnjdxaizdmifk) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
+| [GagaNode](https://dashboard.gaganode.com/register?referral_code=ziegpvmmbudtuty) | :heavy_check_mark:	  | :heavy_check_mark: |No limit|1|
 
 * The comparison mentioned above was updated on 30-04-2023 and may be subject to change later.
 * No Limit indicates the website has not mentioned any specifics about it and multiproxies were working. Try to use 1 device per IP if possible.
